@@ -1,0 +1,98 @@
+<DATA>
+
+	<ROW>
+		<id>1</id>
+		<name>Str.Alexandru Cel Bun</name>
+		<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>2</id>
+		<name>Str.Mihai Eminescu</name>
+		<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>3</id>
+		<name>Str.Tudor Vladimirescu</name>
+		<vit>70</vit>
+	</ROW>
+
+	<ROW>
+		<id>4</id>
+		<name>Str.Nicolae Balcescu</name>
+		<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>5</id>
+		<name>Str.Primaverii</name>
+		<vit>70</vit>
+	</ROW>
+
+	<ROW>
+		<id>6</id>
+		<name>Str.Libertatii</name>
+		<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>7</id>
+		<name>Str.Trandafirilor</name>
+		<vit>30</vit>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<name>Str.Garii</name>
+		<vit>30</vit>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<name>Str.Unirii</name>
+		<vit>70</vit>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<name>Str.Teilor</name>
+		<vit>30</vit>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<name>Str.Vasile Alecsandri</name>
+	<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<name>Str.Republicii</name>
+		<vit>50</vit>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<name>Str.Stejarului</name>
+		<vit>60</vit>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<name>Str.Nicolae Iorga</name>
+		<vit>40</vit>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<name>Str.Grigore Ghica</name>
+		<vit>90</vit>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<name>Str.Traian</name>
+		<vit>90</vit>
+	</ROW>
+</DATA>

@@ -1,0 +1,8 @@
+Comenzile care pot fi folosi in client:
+up- mareste viteza cu 2km/ora
+down-scade viteza cu 2km/ora
+option:meteo-cere informatii despre vreme
+option:preturi-cere informatii despre preturile combustibilului
+option:evenimente-cere informatii despre evenimente sportive
+accident: raporteaza un accident in trafic
+blocaj:rapoateaza un blocaj in trafic

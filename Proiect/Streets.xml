@@ -1,0 +1,130 @@
+<DATA>
+
+	<ROW>
+		<id>1</id>
+		<name>Str.Alexandru Cel Bun</name>
+		<p1>1</p1>
+		<p2>2</p2>
+		<dis>4000</dis>
+	</ROW>
+
+	<ROW>
+		<id>2</id>
+		<name>Str.Mihai Eminescu</name>
+		<p1>1</p1>
+		<p2>3</p2>
+		<dis>3000</dis>
+	</ROW>
+
+	<ROW>
+		<id>3</id>
+		<name>Str.Tudor Vladimirescu</name>
+		<p1>1</p1>
+		<p2>4</p2>
+		<dis>3500</dis>
+	</ROW>
+
+	<ROW>
+		<id>4</id>
+		<name>Str.Nicolae Balcescu</name>
+		<p1>2</p1>
+		<p2>6</p2>
+		<dis>6400</dis>
+	</ROW>
+
+	<ROW>
+		<id>5</id>
+		<name>Str.Primaverii</name>
+		<p1>2</p1>
+		<p2>10</p2>
+		<dis>5000</dis>
+	</ROW>
+
+	<ROW>
+		<id>6</id>
+		<name>Str.Libertatii</name>
+		<p1>3</p1>
+		<p2>7</p2>
+		<dis>3000</dis>
+	</ROW>
+
+	<ROW>
+		<id>7</id>
+		<name>Str.Trandafirilor</name>
+		<p1>3</p1>
+		<p2>5</p2>
+		<dis>2600</dis>
+	</ROW>
+
+	<ROW>
+		<id>8</id>
+		<name>Str.Garii</name>
+		<p1>4</p1>
+		<p2>5</p2>
+		<dis>3200</dis>
+	</ROW>
+
+	<ROW>
+		<id>9</id>
+		<name>Str.Unirii</name>
+		<p1>5</p1>
+		<p2>8</p2>
+		<dis>4000</dis>
+	</ROW>
+
+	<ROW>
+		<id>10</id>
+		<name>Str.Teilor</name>
+		<p1>6</p1>
+		<p2>10</p2>
+		<dis>1600</dis>
+	</ROW>
+
+	<ROW>
+		<id>11</id>
+		<name>Str.Vasile Alecsandri</name>
+		<p1>6</p1>
+		<p2>11</p2>
+		<dis>2200</dis>
+	</ROW>
+
+	<ROW>
+		<id>12</id>
+		<name>Str.Republicii</name>
+		<p1>7</p1>
+		<p2>8</p2>
+		<dis>2400</dis>
+	</ROW>
+
+	<ROW>
+		<id>13</id>
+		<name>Str.Stejarului</name>
+		<p1>7</p1>
+		<p2>11</p2>
+		<dis>3000</dis>
+	</ROW>
+
+	<ROW>
+		<id>14</id>
+		<name>Str.Nicolae Iorga</name>
+		<p1>8</p1>
+		<p2>12</p2>
+		<dis>2400</dis>
+	</ROW>
+
+	<ROW>
+		<id>15</id>
+		<name>Str.Grigore Ghica</name>
+		<p1>11</p1>
+		<p2>12</p2>
+		<dis>3800</dis>
+	</ROW>
+
+	<ROW>
+		<id>16</id>
+		<name>Str.Traian</name>
+		<p1>3</p1>
+		<p2>11</p2>
+		<dis>5400</dis>
+	</ROW>
+</DATA>
